@@ -1,11 +1,11 @@
 {
     "name": "autoprotect-group/neo4j-common",
+    "type": "library",
     "description": "Common Utilities library for Neo4j",
     "keywords": [
       "graph", "neo4j", "database", "cypher", "statement"
     ],
-    "type": "library",
-    "license": "ApacheV2",
+    "license": "MIT",
     "authors": [
         {
             "name": "Christophe Willemsen",
