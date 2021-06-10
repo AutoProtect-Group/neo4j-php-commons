@@ -1,5 +1,5 @@
 {
-    "name": "graphaware/neo4j-common",
+    "name": "autoprotect-group/neo4j-common",
     "description": "Common Utilities library for Neo4j",
     "keywords": [
       "graph", "neo4j", "database", "cypher", "statement"
